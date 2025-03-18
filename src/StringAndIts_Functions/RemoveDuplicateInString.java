@@ -1,4 +1,4 @@
-package String;
+package StringAndIts_Functions;
 import java.util.*;
 
 public class RemoveDuplicateInString {

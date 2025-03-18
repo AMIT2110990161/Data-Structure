@@ -1,5 +1,4 @@
-package String;
-import java.util.*;
+package StringAndIts_Functions;
 
 public class StringArrayToStringBuffer {
     public static void main(String[] args) {
